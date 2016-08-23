@@ -1,3 +1,6 @@
 .container {
   width: 85%;
 }
+#costMessage {
+  display: none;
+}
