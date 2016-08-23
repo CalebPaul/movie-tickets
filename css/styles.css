@@ -1,6 +1,27 @@
+*{
+  color: #FFFFFF;
+  font-family: "Lucida Console", monospace;
+}
+body {
+  background-image: url(../img/bg.jpeg);
+  background-size: cover;
+}
+
 .container {
   width: 85%;
 }
-#costMessage {
+
+.well {
+  background-color: rgba( 0, 127, 0, 0.3);
+}
+
+#ticket {
+  background-color: rgba( 0, 127, 0, 0.3);
+  margin-top: 6px;
   display: none;
+  border-color: #e3e3e3;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 5px;
+
 }
