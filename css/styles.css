@@ -2,6 +2,7 @@
   color: #FFFFFF;
   font-family: "Lucida Console", monospace;
 }
+
 body {
   background-image: url(../img/bg.jpeg);
   background-size: cover;
@@ -11,8 +12,9 @@ body {
   width: 85%;
 }
 
-.well {
+.well, .form-control{
   background-color: rgba( 0, 127, 0, 0.3);
+  color: #FFFFFF;
 }
 
 #ticket {
@@ -23,5 +25,4 @@ body {
   border-style: solid;
   border-width: thin;
   border-radius: 5px;
-
 }

@@ -5,7 +5,7 @@
 #### By _**Caleb Paul and Yusuf Qedan**_
 ## Description
 
-_A Simple page that calculates movie tickt costs based in user age, movie choice, and showing time_
+_A Simple page that calculates movie ticket costs based in user age, movie choice, and showing time_
 
 ## Setup/Installation Requirements
 
